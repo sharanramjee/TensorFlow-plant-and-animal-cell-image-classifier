@@ -36,7 +36,7 @@ For example -
 ![results](screenshots/plant_example.png)
 
 
-![results](screenshots/animal_pic.png)     
+![results](screenshots/animal_pic.jpg)     
 ![results](screenshots/animal_example.png)
 
 ## Theory Behind The Machine Learning Algorithm
@@ -46,7 +46,7 @@ The Inception v3 model is made up of many layers stacked on top of each other an
 
 # Credits
 
-Credit goes to [Xblaster](https://github.com/xblaster) for the base code that enabled me to create the Inception v3 model.
+Credit goes to [Xblaster](https://github.com/xblaster) for the base/boilerplate code that enabled me to create the Inception v3 model.
 
 
 
