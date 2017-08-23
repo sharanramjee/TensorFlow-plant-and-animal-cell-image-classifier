@@ -27,17 +27,17 @@ python /cellule/label_image.py <image_location>
 For example - 
 
 
-![example](screenshots/example.png)
+![example](screenshots/example.jpg)
 
 ## Results
 
 
 ![results](screenshots/plant_pic.jpg)     
-![results](screenshots/plant_example.png)
+![results](screenshots/plant_example.jpg)
 
 
 ![results](screenshots/animal_pic.jpg)     
-![results](screenshots/animal_example.png)
+![results](screenshots/animal_example.jpg)
 
 ## Theory Behind The Machine Learning Algorithm
 
