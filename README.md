@@ -42,7 +42,7 @@ For example -
 ## Theory Behind The Machine Learning Algorithm
 
 Cellule takes in the picture of either a plant or an animal cell as an input and used a series of multiple hidden layers in a Convolutional Neural Network (CNN) to build an Inception v3 model that allows the TensorFlow program to automatically create its own features that it uses to classify and determine if the given picture is one that contains plant or animal cells.
-The Inception v3 model is made up of many layers stacked on top of each other and these layers are pre-trained and are already very valuable at finding and summarizing information that will help classify most images. This helps in generating the bottleneck (The layer before the final output layer of the CNN that actually classifies the given image) and every inputted image is then run through this in order to classify the given image based on the already trained Convolutional Neural Network (CNN). 
+The Inception v3 model is made up of many layers stacked on top of each other and these layers are pre-trained and are already very valuable at finding and summarizing information that will help classify most images. This helps in generating the bottleneck (The layer before the final output layer of the CNN that actually classifies the given image) and every inputted image is then run through this bottleneck in order to classify the given image based on the already trained Convolutional Neural Network (CNN). 
 
 # Credits
 
