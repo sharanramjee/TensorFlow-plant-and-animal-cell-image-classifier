@@ -1,6 +1,6 @@
 # Cellule - A Tensorflow Plant and Animal Cell Image Classifier
 
-Cellule is a TensorFlow Image Classifer that can be used to classify an image of cells and determine whether it is an image of Plant cells or an image of Animal cells.
+Cellule is a TensorFlow Image Classifer that can be used to classify an image of cells and determine whether or not it is an image of Plant cells or an image of Animal cells.
 
 Accuracy - 95% (Approx.) 
 
